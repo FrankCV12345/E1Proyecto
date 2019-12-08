@@ -1,6 +1,6 @@
 # frontend-sga
 
-> esto es el front-end de mis sistema sga por sus siglas sistam de gestion academica
+> Proyecto del grupo E1 de MediaThon
 
 ## Build Setup
 
